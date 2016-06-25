@@ -3,7 +3,6 @@ permalink: /:title/
 url: http://ittechbolg.github.io
 name: ittechbolg
 author: Kevin Yang
-email: Yonsm@msn.com
 github: ittechbolg
 pygments: true
 safe: true
